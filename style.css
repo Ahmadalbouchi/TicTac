@@ -136,3 +136,10 @@ button:hover {
         font-size: 16px;
     }
 }
+
+.copyright {
+    margin-top: 10px;
+    margin-left: 75px;
+    justify-items: center;
+    font-size: small;
+}
